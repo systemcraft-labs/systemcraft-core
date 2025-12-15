@@ -179,7 +179,28 @@ Changes require:
 Nothing changes quietly.
 
 ---
+## Emotional Accountability Protocol (EAP)
 
+This system recognizes that unclear responsibility, invisible emotional labor,
+and ambiguous authority structures systematically harm individuals and degrade systems.
+
+EAP (Emotional Accountability Protocol) exists to ensure that:
+
+1. No authority is exercised without explicit responsibility.
+2. No responsibility is assigned without clear decision rights.
+3. Emotional labor is not assumed, implied, or silently extracted.
+4. Ambiguity is treated as a systemic failure, not an individual weakness.
+
+Any participant holding decision-making power must:
+
+- Explicitly declare their scope of responsibility
+- Accept accountability for downstream impact
+- Refrain from shifting emotional, structural, or cognitive burden onto others
+
+Failure to meet these conditions invalidates decision authority.
+
+This protocol is non-negotiable and applies to all governance layers,
+including founders, operators, contributors, and delegated leaders.
 **A system that requires sacrifice is broken.  
 A system that requires silence is dangerous.  
 Systemcraft exists so that no one has to carry what was never theirs.**
