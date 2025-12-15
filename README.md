@@ -1,99 +1,80 @@
-# Systemcraft Core
+# Systemcraft Core — A Framework for Resilient Human Systems
 
-**Systemcraft** is a design-first framework for building resilient systems  
-that separate **authority, responsibility, and risk** by default.
+Systemcraft Core is a design-first framework for building systems  
+where **responsibility, authority, and risk are structurally separated**  
+so that no single person carries hidden burdens or invisible labor.
 
-This repository defines the **core philosophy, structures, and governance logic**
-behind Systemcraft-based organizations, DAOs, and investment systems.
+This repository defines:
+- core philosophy
+- structural principles
+- governance logic
+behind all Systemcraft-based projects and DAOs.
 
 ---
 
 ## 🧠 Why Systemcraft Exists
 
-Most failures in organizations come from one root problem:
+Many human systems fail not because people lack good intentions,  
+but because **roles, responsibility, and risk are not separated clearly**.
 
-> **Authority, responsibility, and risk are concentrated in the same people.**
+When authority and responsibility overlap:
+- one person becomes the de facto shield
+- invisible labor accumulates
+- burnout and collapse become inevitable
 
-Systemcraft exists to solve this by design.
-
-We do not optimize for speed.
-We optimize for **survivability, clarity, and accountability**.
-
----
-
-## 🧩 Core Principles
-
-### 1. Separation of Roles
-No single actor should simultaneously hold:
-- Operational authority
-- Legal or financial responsibility
-- Ultimate risk exposure
-
-Each must be **explicitly separated**.
+Systemcraft prevents this by design.
 
 ---
 
-### 2. Design Before Execution
-Execution without structure creates invisible labor, emotional debt, and collapse.
+## 🧩 What Systemcraft Provides
 
-Systemcraft prioritizes:
-- Clear role definitions
-- Explicit boundaries
-- Pre-defined failure handling
+Systemcraft delivers:
+- clear role boundaries
+- explicit decision authority
+- visible risk ownership
+- failure containment rules
+- safe and documented exit paths
 
----
-
-### 3. Human-Limit Aware Systems
-People are emotional, inconsistent, and finite.
-
-Systems must assume:
-- Burnout
-- Conflict
-- Exit
-- Failure
-
-And still remain stable.
+A system is not complete unless **leaving it is safe**.
 
 ---
 
-## 🏗 What This Repository Contains
+## ❌ What Systemcraft is NOT
 
-- Foundational philosophy (this README)
-- Governance models
-- Role & permission schemas
-- DAO-ready structural templates
-- Investment & responsibility separation logic
+Systemcraft is not:
+- a motivation community (it is a structural framework)
+- a personality-driven leadership model
+- a trust-first system
+- a token-first initiative
 
-This is **not** an app.
-This is **not** a token.
-
-This is a **system blueprint**.
+Structure comes first.
+Products and tokens may come later.
 
 ---
 
 ## 🌍 Who This Is For
 
-Systemcraft is for:
+Systemcraft is intended for:
 - DAO designers
-- Founders & investors
-- Operators tired of carrying invisible responsibility
+- Founders and investors
+- Operators tired of hidden responsibility
 - Builders who think in systems, not personalities
 
-You do **not** need to code to understand Systemcraft.
-You need to think structurally.
+You do not need to code to understand Systemcraft.
+You need to think **structurally**.
 
 ---
 
 ## 🛡 Governance Philosophy
 
-- No hero leaders
-- No emotional dependency
-- No silent obligations
+No hero leaders.
+No silent obligations.
+No emotional dependency.
 
 Everything must be:
-- Written
-- Versioned
-- Auditable
+- written
+- versioned
+- auditable
 
 ---
 
@@ -102,19 +83,19 @@ Everything must be:
 This repository is in **foundational phase**.
 
 Next steps include:
-- Governance specification
-- Role taxonomy
-- Failure-mode documentation
-- Example DAO structures
+- formal governance specification
+- role taxonomy
+- failure-mode documentation
+- example system templates
 
 ---
 
 ## 🤝 Contribution
 
 Systemcraft welcomes contributors who:
-- Think in systems
-- Respect boundaries
-- Value clarity over charisma
+- think in systems
+- respect boundaries
+- value clarity over charisma
 
 Discussion > execution.
 Design > speed.
