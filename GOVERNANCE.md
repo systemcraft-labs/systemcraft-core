@@ -180,50 +180,6 @@ Nothing changes quietly.
 
 ---
 
-## Emotional Accountability Protocol (EAP)
-
-EAP (Emotional Accountability Protocol) is a governance-level policy that defines
-clear boundaries between authority, responsibility, and accountability.
-
-This system acknowledges that unclear responsibility, invisible emotional labor,
-and ambiguous decision authority systematically damage individuals and destabilize systems.
-
-EAP exists to enforce the following principles:
-
-1. No authority may be exercised without explicitly declared responsibility.
-2. No responsibility may be assigned without clear decision-making rights.
-3. Emotional labor must never be assumed, implied, or silently extracted.
-4. Persistent ambiguity constitutes a systemic failure, not an individual weakness.
-
-For the purpose of governance, emotional labor includes (but is not limited to):
-- Conflict mediation without mandate
-- Repeated reassurance or emotional regulation of others
-- Ambiguity cleanup caused by unclear roles or decisions
-- Unpaid coordination or expectation management
-
-Any participant holding decision-making power must:
-
-- Explicitly declare their scope of responsibility prior to action
-- Accept accountability for downstream impact within that scope
-- Refrain from transferring emotional, cognitive, or structural burden onto others
-
-Failure to meet these conditions results in suspension of decision authority
-until responsibility and scope are clearly re-declared.
-
-### Enforcement
-
-In the event of dispute, ambiguity, or perceived burden transfer:
-
-- Maintainers or the designated Governance Council may invoke a temporary veto
-- Decision authority remains suspended until scope and responsibility are clarified
-- No execution may proceed under unresolved ambiguity
-
-This protocol applies to all governance layers, including but not limited to:
-founders, maintainers, operators, contributors, moderators, and delegated leaders.
-
-EAP is non-negotiable and overrides informal hierarchy, urgency-based pressure,
-or implied expectations.
-
 
 
 
