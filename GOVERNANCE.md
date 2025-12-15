@@ -179,28 +179,54 @@ Changes require:
 Nothing changes quietly.
 
 ---
+
 ## Emotional Accountability Protocol (EAP)
 
-This system recognizes that unclear responsibility, invisible emotional labor,
-and ambiguous authority structures systematically harm individuals and degrade systems.
+EAP (Emotional Accountability Protocol) is a governance-level policy that defines
+clear boundaries between authority, responsibility, and accountability.
 
-EAP (Emotional Accountability Protocol) exists to ensure that:
+This system acknowledges that unclear responsibility, invisible emotional labor,
+and ambiguous decision authority systematically damage individuals and destabilize systems.
 
-1. No authority is exercised without explicit responsibility.
-2. No responsibility is assigned without clear decision rights.
-3. Emotional labor is not assumed, implied, or silently extracted.
-4. Ambiguity is treated as a systemic failure, not an individual weakness.
+EAP exists to enforce the following principles:
+
+1. No authority may be exercised without explicitly declared responsibility.
+2. No responsibility may be assigned without clear decision-making rights.
+3. Emotional labor must never be assumed, implied, or silently extracted.
+4. Persistent ambiguity constitutes a systemic failure, not an individual weakness.
+
+For the purpose of governance, emotional labor includes (but is not limited to):
+- Conflict mediation without mandate
+- Repeated reassurance or emotional regulation of others
+- Ambiguity cleanup caused by unclear roles or decisions
+- Unpaid coordination or expectation management
 
 Any participant holding decision-making power must:
 
-- Explicitly declare their scope of responsibility
-- Accept accountability for downstream impact
-- Refrain from shifting emotional, structural, or cognitive burden onto others
+- Explicitly declare their scope of responsibility prior to action
+- Accept accountability for downstream impact within that scope
+- Refrain from transferring emotional, cognitive, or structural burden onto others
 
-Failure to meet these conditions invalidates decision authority.
+Failure to meet these conditions results in suspension of decision authority
+until responsibility and scope are clearly re-declared.
 
-This protocol is non-negotiable and applies to all governance layers,
-including founders, operators, contributors, and delegated leaders.
+### Enforcement
+
+In the event of dispute, ambiguity, or perceived burden transfer:
+
+- Maintainers or the designated Governance Council may invoke a temporary veto
+- Decision authority remains suspended until scope and responsibility are clarified
+- No execution may proceed under unresolved ambiguity
+
+This protocol applies to all governance layers, including but not limited to:
+founders, maintainers, operators, contributors, moderators, and delegated leaders.
+
+EAP is non-negotiable and overrides informal hierarchy, urgency-based pressure,
+or implied expectations.
+
+
+
+
 **A system that requires sacrifice is broken.  
 A system that requires silence is dangerous.  
 Systemcraft exists so that no one has to carry what was never theirs.**
