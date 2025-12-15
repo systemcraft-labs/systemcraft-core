@@ -110,3 +110,33 @@ This project is released under the MIT License.
 
 **Systemcraft is not about control.  
 It is about making control unnecessary.**
+
+## Documentation Index
+
+Start here to understand Systemcraft from first principles.
+
+### Core Philosophy
+- **MANIFESTO.md**  
+  Declares the fundamental beliefs and non-negotiable principles behind Systemcraft.
+
+### Governance & Control
+- **GOVERNANCE.md**  
+  Defines how authority, responsibility, and risk are structurally separated and enforced.
+
+### Responsibility Logic
+- **RESPONSIBILITY.md**  
+  Specifies how responsibility is explicitly declared, limited, and exited to prevent silent burden transfer.
+
+### Role Architecture
+- **ROLE_TEMPLATES.md**  
+  Provides canonical role definitions (Architect, Operator, Custodian, Contributor, Investor) and boundary rules.
+
+### Execution Path
+- **ROADMAP.md**  
+  Outlines the phased evolution of Systemcraft systems from concept to global scale.
+
+---
+
+Systemcraft is not a product.  
+It is a system for designing systems that do not collapse onto individuals.
+
